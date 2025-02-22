@@ -1,0 +1,10 @@
+[build]
+  command = "curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | jq -r .assets[0].browser_download_url | xargs curl -O && tar -xzvf hugo*.tar.gz && hugo"
+  publish = "public"
+
+[context.production.environment]
+  HUGO_VERSION = "0.144.2"
+
+[[plugins]]
+  package = "@netlify/plugin-functions-installation"
+
