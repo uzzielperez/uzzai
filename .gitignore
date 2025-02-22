@@ -6,5 +6,3 @@ public/
 yarn-error.log
 # Local Netlify folder
 .netlify
-yarn-error.log
-.DS_Store
