@@ -1,2 +1,32 @@
 theme = "ananke"
 baseURL = "https://www.uzzielperez.com/"
+languageCode = "en-us"
+title = "Uzziel Perez"
+
+[outputs]
+  home = ["HTML", "RSS"]  # Ensures both index.html (HTML) and index.xml (RSS) are generated
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 1
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 2
+  [[menu.main]]
+    name = "Talks"
+    url = "/talks/"
+    weight = 3
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 4
+  [[menu.main]]
+    name = "Services"
+    url = "/services/"
+    weight = 5
+  [[menu.main]]
+    name = "About Me"
+    url = "/about-me/"
+    weight = 6
