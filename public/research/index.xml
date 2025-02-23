@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Researches on Uzziel Perez</title><link>https://www.uzzielperez.com/research/</link><description>Recent content in Researches on Uzziel Perez</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.uzzielperez.com/research/index.xml" rel="self" type="application/rss+xml"/><item><title>Research Study</title><link>https://www.uzzielperez.com/research/study/</link><pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate><guid>https://www.uzzielperez.com/research/study/</guid><description>&lt;p>Details about my research.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches on Uzziel Perez</title>
+    <link>http://localhost:64259/research/</link>
+    <description>Recent content in Researches on Uzziel Perez</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:64259/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research Study</title>
+      <link>http://localhost:64259/research/study/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64259/research/study/</guid>
+      <description>&lt;p&gt;Details about my research.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

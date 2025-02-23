@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Uzziel Perez</title><link>https://www.uzzielperez.com/</link><description>Recent content on Uzziel Perez</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://www.uzzielperez.com/index.xml" rel="self" type="application/rss+xml"/><item><title>First Blog Post</title><link>https://www.uzzielperez.com/blog/first-post/</link><pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate><guid>https://www.uzzielperez.com/blog/first-post/</guid><description>&lt;p>This is my first blog post! Redesigning website while sick with the flu.&lt;/p></description></item><item><title>Research Study</title><link>https://www.uzzielperez.com/research/study/</link><pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate><guid>https://www.uzzielperez.com/research/study/</guid><description>&lt;p>Details about my research.&lt;/p></description></item><item><title>My Services</title><link>https://www.uzzielperez.com/services/services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.uzzielperez.com/services/services/</guid><description>&lt;h2 id="ai-data-science-and-physics-consulting-session">AI, Data Science and Physics Consulting Session&lt;/h2>
-&lt;p>Book a session or tip me!
-&lt;a href="https://buymeacoffee.com/uzzielperej">Support me on Buy Me a Coffee&lt;/a>
-&lt;a href="https://buy.stripe.com/abc123">Pay $50 Now&lt;/a>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uzziel Perez</title>
+    <link>http://localhost:64259/</link>
+    <description>Recent content on Uzziel Perez</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:64259/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Blog Post</title>
+      <link>http://localhost:64259/blog/first-post/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64259/blog/first-post/</guid>
+      <description>&lt;p&gt;This is my first blog post! Redesigning website while sick with the flu.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research Study</title>
+      <link>http://localhost:64259/research/study/</link>
+      <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64259/research/study/</guid>
+      <description>&lt;p&gt;Details about my research.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Services</title>
+      <link>http://localhost:64259/services/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64259/services/services/</guid>
+      <description>&lt;h2 id=&#34;ai-data-science-and-physics-consulting-session&#34;&gt;AI, Data Science and Physics Consulting Session&lt;/h2&gt;&#xA;&lt;p&gt;Book a session or tip me!&#xA;&lt;a href=&#34;https://buymeacoffee.com/uzzielperej&#34;&gt;Support me on Buy Me a Coffee&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://buy.stripe.com/abc123&#34;&gt;Book a consultation $50&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

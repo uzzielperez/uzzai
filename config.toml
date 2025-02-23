@@ -15,18 +15,14 @@ title = "Uzziel Perez"
     url = "/research/"
     weight = 2
   [[menu.main]]
-    name = "Talks"
-    url = "/talks/"
-    weight = 3
-  [[menu.main]]
-    name = "Projects"
-    url = "/projects/"
-    weight = 4
-  [[menu.main]]
     name = "Services"
     url = "/services/"
-    weight = 5
+    weight = 3
   [[menu.main]]
     name = "About Me"
     url = "/about-me/"
-    weight = 6
+    weight = 5
+
+[params]
+  featured_image = "/images/banner.jpg"  # Path relative to static/
+  ananke_cover_text = "Welcome to My Site"  # Optional overlay text
