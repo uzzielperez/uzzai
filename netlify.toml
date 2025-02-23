@@ -1,0 +1,11 @@
+[build]
+  command = "hugo --gc --minify"  # Simply run Hugo with optimization flags
+  publish = "public"              # Deploy the 'public/' folder
+
+[context.production.environment]
+  HUGO_VERSION = "0.144.2"        # Use Hugo v0.144.2 consistently
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
