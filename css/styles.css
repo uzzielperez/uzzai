@@ -2845,6 +2845,24 @@ textarea.form-control-lg {
 }
 
 .btn-primary {
+  --bs-btn-color: #fff; /* White text color */
+  --bs-btn-bg: #008080; /* Teal background color */
+  --bs-btn-border-color: #008080; /* Teal border color */
+  --bs-btn-hover-color: #fff; /* White text on hover */
+  --bs-btn-hover-bg: #006666; /* Darker teal background on hover */
+  --bs-btn-hover-border-color: #004d4d; /* Darker teal border on hover */
+  --bs-btn-focus-shadow-rgb: 0, 128, 128; /* Focus shadow color */
+  --bs-btn-active-color: #fff; /* White text on active state */
+  --bs-btn-active-bg: #004d4d; /* Darker teal background on active state */
+  --bs-btn-active-border-color: #003333; /* Darker teal border on active state */
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125); /* Active state shadow */
+  --bs-btn-disabled-color: #fff; /* White text on disabled state */
+  --bs-btn-disabled-bg: #008080; /* Teal background on disabled state */
+  --bs-btn-disabled-border-color: #008080; /* Teal border on disabled state */
+}
+
+
+/* .btn-primary {
   --bs-btn-color: #fff;
   --bs-btn-bg: #ffc800;
   --bs-btn-border-color: #ffc800;
@@ -2859,7 +2877,7 @@ textarea.form-control-lg {
   --bs-btn-disabled-color: #fff;
   --bs-btn-disabled-bg: #ffc800;
   --bs-btn-disabled-border-color: #ffc800;
-}
+} */
 
 .btn-secondary {
   --bs-btn-color: #fff;
@@ -8091,7 +8109,7 @@ textarea.form-control-lg {
 
 .text-muted {
   --bs-text-opacity: 1;
-  color: #6c757d !important;
+  color: #6c757d; /* Removed !important */
 }
 
 .text-black-50 {
@@ -10895,7 +10913,8 @@ p {
   text-transform: uppercase;
 }
 #mainNav .navbar-brand img {
-  height: 1.5rem;
+  height: 4rem;
+  width: auto;
 }
 #mainNav .navbar-nav .nav-item .nav-link {
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -10920,7 +10939,7 @@ p {
     transition: font-size 0.3s ease-in-out;
   }
   #mainNav .navbar-brand img {
-    height: 2rem;
+    height:5rem;
     transition: height 0.3s ease-in-out;
   }
   #mainNav.navbar-shrink {
@@ -10933,7 +10952,8 @@ p {
   }
   #mainNav.navbar-shrink .navbar-brand svg,
   #mainNav.navbar-shrink .navbar-brand img {
-    height: 1.5rem;
+    height: 5rem;
+    width: auto;
   }
   #mainNav .navbar-nav .nav-item {
     margin-right: 1rem;
@@ -10947,7 +10967,8 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/header-bg.jpg");
+  /* background-image: url("../assets/img/header-bg.jpg"); */
+  background-image: url("../assets/img/grok-holograph.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
